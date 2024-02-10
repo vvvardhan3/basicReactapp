@@ -1,3 +1,3 @@
-1. Basic React App, Where I'm Printing "Hello world"
+1. Basic React App, Where I'm Printing "Hello world on the main screen"
 2. I have writen this react code using CDN react package, Where I have imported React-Core and React-DOM
-3. I have created a react element using react code, and I have also created a root element using React-DOM, Where this root.Render operation converts this object into HTML.
+3. I have created a react Object using react code, and I have also created a root element using React-DOM, Where this root.Render operation converts this object into HTML.
