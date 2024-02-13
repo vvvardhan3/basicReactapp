@@ -1,0 +1,28 @@
+{
+  "name": "basicreactapp",
+  "version": "1.0.0",
+  "description": "This is a basic react app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvvardhan3/basicReactapp.git"
+  },
+  "keywords": [
+    "react",
+    "parcel",
+    "babel"
+  ],
+  "author": "Vishnu Vardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvvardhan3/basicReactapp/issues"
+  },
+  "homepage": "https://github.com/vvvardhan3/basicReactapp#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
