@@ -1,6 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
+
+// React Element
+const element = <h1>React Element</h1>;
 // Funtional Component
 const Title = () => {
     return <h1 className="heading">Hello, Vishnu!</h1>;
@@ -10,7 +13,8 @@ const Title = () => {
 const JsxElement = () => 
     (
     <div id="container">
-        <Title />
+        {element}
+        <Title /> 
         <h1>Will meet you soon! </h1>
     </div>
     );
